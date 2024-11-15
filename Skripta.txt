@@ -29,6 +29,6 @@ INSERT INTO jezik (naziv) VALUES ('nemacki');
 INSERT INTO prevod (srpski, jezik, prevod) VALUES (1,1,'table');
 INSERT INTO prevod (srpski, jezik, prevod) VALUES (1,1,'desk');
 INSERT INTO prevod (srpski, jezik, prevod) VALUES (2,1,'pen');
-INSERT INTO prevod (srpski, jezik, prevod) VALUES (2,1,'prencil');
+INSERT INTO prevod (srpski, jezik, prevod) VALUES (2,1,'pencil');
 INSERT INTO prevod (srpski, jezik, prevod) VALUES (3,1,'house');
 INSERT INTO prevod (srpski, jezik, prevod) VALUES (3,1,'home');
